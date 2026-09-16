@@ -24,7 +24,7 @@ La alineación estratégica representa la relación entre las capacidades e inic
 
 El impacto representa la relevancia potencial de las brechas o iniciativas sobre los procesos, capacidades y generación de valor público.
 
-El riesgo incorpora la exposición o necesidad de intervención asociada a las condiciones identificadas.
+El riesgo incorpora la exposición o necesidad de intervención asociada a las condiciones identificadas. Para efectos de la priorización, un mayor nivel de riesgo representará una mayor necesidad de intervención.
 
 ## Modelo AHP-TOPSIS
 
